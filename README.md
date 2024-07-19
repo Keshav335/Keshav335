@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav Maharshi</h1>
-<h3 align="center">A tech. enthusiast with a keen interest in Web Development, Data Analytics and programming.</h3>
+<h3 align="center">A tech. enthusiast with a keen interest in Web Development and Data Analytics.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&s">
 
 - 🌱 I’m currently learning **MERN Stack**
