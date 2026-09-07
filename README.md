@@ -13,7 +13,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/> </a>
-<a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/salesforce/design-system-icons@master/icons/standard/apex.svg" alt="apex" width="40" height="40"/> </a>
 <a href="https://claude.com/claude-code" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/claude" alt="claudecode" width="40" height="40"/> </a>
 <a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
