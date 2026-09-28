@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keshav Maharshi</h1>
-<h3 align="center">A tech. enthusiast with a keen interest in Salesforce Development, Web Development, and Data Analytics.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&s">
+<h3 align="center">Salesforce Developer with a passion for system design, automation, and AI.</h3>
 
-- 🌱 I'm currently learning **Salesforce Development (Apex, SOQL/SOSL, LWC)**
+- 💼 Currently working as a **Salesforce Developer** (Apex, SOQL/SOSL, LWC, integrations)
+- 🏗️ Interested in **system design** and building scalable, maintainable solutions
+- ⚙️ Passionate about **automation**: async Apex, Flows, n8n workflows
+- 🤖 Exploring **AI** to make CRM workflows smarter (Claude Code, API-driven enrichment)
+- 🌱 Also keeping up with Web Development and Data Analytics
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
